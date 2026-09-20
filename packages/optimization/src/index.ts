@@ -18,11 +18,13 @@ export function cosineSimilarity(a:number[],b:number[]) {
   for(let i=0;i<a.length;i++){dot+=a[i]!*b[i]!;aa+=a[i]!*a[i]!;bb+=b[i]!*b[i]!}
   return aa&&bb?dot/(Math.sqrt(aa)*Math.sqrt(bb)):0;
 }
+export interface SemanticEntry<T>{key:string;vector:number[];value:T;createdAt:number}
 export class SemanticCache<T> {
-  private entries:Array<{key:string;vector:number[];value:T;createdAt:number}>=[];
+  private entries:SemanticEntry<T>[]=[];
   constructor(private threshold=0.92){}
   set(key:string,vector:number[],value:T){this.entries.push({key,vector,value,createdAt:Date.now()})}
-  find(vector:number[]){let best:null|{entry:(typeof this.entries)[number];similarity:number}=null;
+  find(vector:number[]):{entry:SemanticEntry<T>;similarity:number}|null{
+    let best:{entry:SemanticEntry<T>;similarity:number}|null=null;
     for(const entry of this.entries){const similarity=cosineSimilarity(vector,entry.vector);if(similarity>=this.threshold&&(!best||similarity>best.similarity))best={entry,similarity};}
     return best;
   }
