@@ -1,0 +1,6 @@
+{
+  "name": "@designos/clipper",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": { "build": "echo 'Clipper build: copy to dist'", "typecheck": "tsc --noEmit", "test": "echo 'Clipper tests: manual'" }
+}

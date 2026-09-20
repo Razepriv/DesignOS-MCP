@@ -1,0 +1,17 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/project/[id]/brand/page": "app/project/[id]/brand/page.js",
+  "/project/[id]/critique/page": "app/project/[id]/critique/page.js",
+  "/project/[id]/implementation/page": "app/project/[id]/implementation/page.js",
+  "/page": "app/page.js",
+  "/project/[id]/library/page": "app/project/[id]/library/page.js",
+  "/project/[id]/metrics/page": "app/project/[id]/metrics/page.js",
+  "/project/[id]/interview/page": "app/project/[id]/interview/page.js",
+  "/project/[id]/moodboard/page": "app/project/[id]/moodboard/page.js",
+  "/project/[id]/page": "app/project/[id]/page.js",
+  "/project/[id]/storyboard/page": "app/project/[id]/storyboard/page.js",
+  "/project/[id]/research/page": "app/project/[id]/research/page.js",
+  "/project/[id]/qa/page": "app/project/[id]/qa/page.js",
+  "/projects/page": "app/projects/page.js",
+  "/project/[id]/production/page": "app/project/[id]/production/page.js"
+}

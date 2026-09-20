@@ -1,0 +1,18 @@
+{
+  "name": "@designos/critique",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.9.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "vitest": "^1.0.0",
+    "@types/better-sqlite3": "^7.6.9"
+  }
+}

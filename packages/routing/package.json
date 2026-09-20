@@ -1,0 +1,17 @@
+{
+  "name": "@designos/routing",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@designos/contracts": "workspace:*"
+  },
+  "devDependencies": {
+    "vitest": "^1.0.0",
+    "typescript": "^5.0.0"
+  }
+}

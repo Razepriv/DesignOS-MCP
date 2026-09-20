@@ -8,16 +8,37 @@
   "scripts": {
     "build": "pnpm -r build",
     "dev": "pnpm --filter @designos/mcp dev",
-    "test": "pnpm -r test",
+    "dev:studio": "pnpm --filter @designos/studio dev",
     "typecheck": "pnpm -r typecheck",
+    "test": "pnpm -r test",
+    "test:unit": "pnpm -r --filter './packages/*' test",
+    "test:integration": "vitest run --config vitest.integration.config.ts",
+    "test:mcp": "vitest run --config tests/mcp/vitest.config.ts",
+    "test:sources": "tsx scripts/validate-sources.ts",
+    "test:sources:live": "tsx scripts/validate-sources.ts --live",
+    "test:browser": "vitest run --config tests/browser/vitest.config.ts",
+    "test:visual": "vitest run --config tests/visual/vitest.config.ts",
+    "test:open-design": "tsx scripts/validate-open-design.ts",
+    "test:production": "vitest run --config tests/production/vitest.config.ts",
+    "test:e2e": "vitest run --config tests/e2e/vitest.config.ts",
+    "release:check": "tsx scripts/release-check.ts",
     "designos:setup": "tsx scripts/setup.ts",
-    "designos:doctor": "tsx scripts/doctor.ts"
+    "designos:doctor": "tsx scripts/doctor.ts",
+    "designos:sources:validate": "tsx scripts/validate-sources.ts",
+    "designos:sources:verify": "tsx scripts/validate-sources.ts --live",
+    "designos:sources:stats": "tsx scripts/source-stats.ts",
+    "designos:open-design:sync": "tsx scripts/sync-open-design.ts",
+    "designos:seed": "tsx scripts/seed-sources.ts"
   },
   "devDependencies": {
+    "@types/better-sqlite3": "^7.6.13",
     "@types/node": "^24.5.2",
     "tsx": "^4.20.5",
     "typescript": "^6.0.2",
     "vercel": "latest",
     "vitest": "^3.2.4"
+  },
+  "pnpm": { "onlyBuiltDependencies": ["better-sqlite3", "esbuild"] }, "dependencies": {
+    "better-sqlite3": "^11.9.1"
   }
 }

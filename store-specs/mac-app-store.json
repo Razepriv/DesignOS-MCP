@@ -1,0 +1,13 @@
+{
+  "lastVerified": "2025-06-01",
+  "source": "https://developer.apple.com/app-store/product-page/",
+  "screenshots": {
+    "mac": { "width": 2560, "height": 1600, "format": ["png", "jpg"], "limit": 10 }
+  },
+  "appPreview": {
+    "maxDuration": 30,
+    "format": "mp4",
+    "codec": "h264",
+    "resolution": { "width": 1920, "height": 1080 }
+  }
+}

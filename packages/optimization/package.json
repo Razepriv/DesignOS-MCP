@@ -1,8 +1,24 @@
 {
   "name": "@designos/optimization",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
   "type": "module",
-  "exports": { ".": "./src/index.ts" },
-  "scripts": { "build":"tsc -p tsconfig.json","typecheck":"tsc -p tsconfig.json --noEmit","test":"vitest run --passWithNoTests" }
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "tsc -b",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@designos/contracts": "workspace:*",
+    "@designos/database": "workspace:*",
+    "better-sqlite3": "^11.9.1",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.9",
+    "@types/node": "^20.0.0",
+    "@types/uuid": "^9.0.8",
+    "typescript": "^5.0.0",
+    "vitest": "^1.0.0"
+  }
 }

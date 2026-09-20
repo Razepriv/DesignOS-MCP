@@ -1,0 +1,12 @@
+{
+  "lastVerified": "2025-06-01",
+  "source": "https://support.google.com/googleplay/android-developer/answer/9866151",
+  "screenshots": {
+    "phone": { "minWidth": 320, "maxWidth": 3840, "format": ["png", "jpg"], "limit": 8 },
+    "tablet": { "minWidth": 320, "maxWidth": 3840, "format": ["png", "jpg"], "limit": 8 }
+  },
+  "promoVideo": {
+    "type": "youtube_url",
+    "maxDuration": 30
+  }
+}

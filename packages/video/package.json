@@ -1,1 +1,18 @@
-{"name":"@designos/video","version":"0.1.0","private":true,"type":"module","exports":{".":"./src/index.ts"},"scripts":{"build":"tsc -p tsconfig.json","typecheck":"tsc -p tsconfig.json --noEmit","test":"vitest run --passWithNoTests"},"dependencies":{"@remotion/renderer":"4.0.526","remotion":"4.0.526"}}
+{
+  "name": "@designos/video",
+  "version": "1.0.0",
+  "type": "module",
+  "exports": "./src/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@designos/contracts": "workspace:*"
+  },
+  "devDependencies": {
+    "vitest": "^1.0.0",
+    "typescript": "^5.0.0"
+  }
+}

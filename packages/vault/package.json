@@ -1,0 +1,19 @@
+{
+  "name": "@designos/vault",
+  "version": "1.0.0",
+  "type": "module",
+  "exports": "./src/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@designos/contracts": "workspace:*",
+    "@designos/database": "workspace:*"
+  },
+  "devDependencies": {
+    "vitest": "^1.0.0",
+    "typescript": "^5.0.0"
+  }
+}

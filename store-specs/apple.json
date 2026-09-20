@@ -1,0 +1,15 @@
+{
+  "lastVerified": "2025-06-01",
+  "source": "https://developer.apple.com/app-store/product-page/",
+  "screenshots": {
+    "iphone_6_7": { "width": 1290, "height": 2796, "format": ["png", "jpg"], "limit": 10 },
+    "iphone_6_5": { "width": 1284, "height": 2778, "format": ["png", "jpg"], "limit": 10 },
+    "ipad_12_9": { "width": 2048, "height": 2732, "format": ["png", "jpg"], "limit": 10 }
+  },
+  "appPreview": {
+    "maxDuration": 30,
+    "format": "mp4",
+    "codec": "h264",
+    "resolution": { "width": 1080, "height": 1920 }
+  }
+}

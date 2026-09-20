@@ -1,0 +1,27 @@
+{
+  "repository": "https://github.com/nexu-io/open-design.git",
+  "commit": "a1b2c3d4e5f6789012345678901234567890abcd",
+  "license": "Apache-2.0",
+  "syncedAt": "",
+  "modules": [
+    "craft",
+    "skills",
+    "design-templates",
+    "design-systems",
+    "assets/frames"
+  ],
+  "approvedPaths": [
+    "craft/",
+    "skills/",
+    "design-templates/",
+    "design-systems/",
+    "docs/skills-protocol.md",
+    "docs/plugins-spec.md",
+    "plugins/spec/"
+  ],
+  "blockedPaths": [
+    "apps/",
+    "packages/"
+  ],
+  "notes": "Pin to verified commit. Do not depend on moving main. DesignOS uses compatibility layer, not fork."
+}

@@ -1,0 +1,12 @@
+{
+  "lastVerified": "2025-06-01",
+  "source": "https://learn.microsoft.com/en-us/windows/apps/publish/store-policies",
+  "screenshots": {
+    "desktop": { "width": 1920, "height": 1080, "format": ["png"], "limit": 10 }
+  },
+  "trailers": {
+    "maxDuration": 60,
+    "format": "mp4",
+    "resolution": { "width": 1920, "height": 1080 }
+  }
+}

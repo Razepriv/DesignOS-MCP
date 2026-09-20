@@ -1,0 +1,7292 @@
+[
+  {
+    "id": "21st-dev",
+    "name": "21st.dev",
+    "url": "https://21st.dev",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "deep",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": true,
+      "registry": true,
+      "components": true,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 1,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "watermelon-ui",
+    "name": "Watermelon UI",
+    "url": "https://ui.watermelon.sh",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "deep",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": true,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "threeui",
+    "name": "ThreeUI",
+    "url": "https://threeui.com",
+    "category": "3d-webgl",
+    "tags": [
+      "3d-webgl",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "motionsites-ai",
+    "name": "MotionSites.ai",
+    "url": "https://motionsites.ai",
+    "category": "motion",
+    "tags": [
+      "motion",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "libraries-dev",
+    "name": "Libraries.dev",
+    "url": "https://libraries.dev",
+    "category": "tools-libraries",
+    "tags": [
+      "tools-libraries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "navbar-gallery",
+    "name": "Navbar Gallery",
+    "url": "https://navbar.gallery",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "404s-design",
+    "name": "404s.design",
+    "url": "https://404s.design",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "footer-design",
+    "name": "Footer.design",
+    "url": "https://footer.design",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "unsection",
+    "name": "Unsection",
+    "url": "https://unsection.com",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "cta-gallery",
+    "name": "CTA Gallery",
+    "url": "https://cta.gallery",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "geometric-art",
+    "name": "Geometric Art",
+    "url": "https://geometric-art.com",
+    "category": "inspiration",
+    "tags": [
+      "inspiration",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "60fps-design",
+    "name": "60fps.design",
+    "url": "https://60fps.design",
+    "category": "motion",
+    "tags": [
+      "motion",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "anime-js",
+    "name": "Anime.js",
+    "url": "https://animejs.com",
+    "category": "motion",
+    "tags": [
+      "motion",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "gsap",
+    "name": "GSAP",
+    "url": "https://gsap.com",
+    "category": "motion",
+    "tags": [
+      "motion",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "bentogrids",
+    "name": "BentoGrids",
+    "url": "https://bentogrids.com",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "structured-browser",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "motion",
+    "name": "Motion",
+    "url": "https://motion.dev",
+    "category": "motion",
+    "tags": [
+      "motion",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "react-spring",
+    "name": "React Spring",
+    "url": "https://react-spring.dev",
+    "category": "motion",
+    "tags": [
+      "motion",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "fora",
+    "name": "Fora",
+    "url": "https://fora.so",
+    "category": "inspiration",
+    "tags": [
+      "inspiration",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "brik-space",
+    "name": "Brik Space",
+    "url": "https://brik.space",
+    "category": "inspiration",
+    "tags": [
+      "inspiration",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "reactbits",
+    "name": "ReactBits",
+    "url": "https://reactbits.dev",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "vgpu",
+    "name": "VGPU",
+    "url": "https://vgpu.sh",
+    "category": "3d-webgl",
+    "tags": [
+      "3d-webgl",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "mesh3d-gallery",
+    "name": "Mesh3D Gallery",
+    "url": "https://mesh3d.gallery",
+    "category": "3d-webgl",
+    "tags": [
+      "3d-webgl",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "magic-animator",
+    "name": "Magic Animator",
+    "url": "https://magicanimator.com",
+    "category": "motion",
+    "tags": [
+      "motion",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "unlumen",
+    "name": "Unlumen",
+    "url": "https://ui.unlumen.com",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "visual-journal",
+    "name": "Visual Journal",
+    "url": "https://visualjournal.it",
+    "category": "inspiration",
+    "tags": [
+      "inspiration",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "smoothui",
+    "name": "SmoothUI",
+    "url": "https://smoothui.dev",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "manus",
+    "name": "Manus",
+    "url": "https://manus.im",
+    "category": "inspiration",
+    "tags": [
+      "inspiration",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "vanta-js",
+    "name": "Vanta.js",
+    "url": "https://vantajs.com",
+    "category": "3d-webgl",
+    "tags": [
+      "3d-webgl",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "magic-ui",
+    "name": "Magic UI",
+    "url": "https://magicui.design",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "deep",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": true,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "lenis",
+    "name": "Lenis",
+    "url": "https://lenis.dev",
+    "category": "motion",
+    "tags": [
+      "motion",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "feral-ui",
+    "name": "Feral UI",
+    "url": "https://feralui.dev",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "limora",
+    "name": "Limora",
+    "url": "https://limora.ai",
+    "category": "inspiration",
+    "tags": [
+      "inspiration",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "neobrutalism",
+    "name": "Neobrutalism",
+    "url": "https://neobrutalism.com",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "bible-strong-avatars",
+    "name": "Bible Strong Avatars",
+    "url": "https://avatars.bible-strong.app",
+    "category": "tools-libraries",
+    "tags": [
+      "tools-libraries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "dark-design",
+    "name": "Dark Design",
+    "url": "https://dark.design",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "collect-ui",
+    "name": "Collect UI",
+    "url": "https://collectui.com",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "supahero",
+    "name": "Supahero",
+    "url": "https://supahero.io",
+    "category": "inspiration",
+    "tags": [
+      "inspiration",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "aceternity-ui",
+    "name": "Aceternity UI",
+    "url": "https://ui.aceternity.com",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "deep",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": true,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "kojima-san",
+    "name": "Kojima San",
+    "url": "https://kojima-san.vercel.app",
+    "category": "inspiration",
+    "tags": [
+      "inspiration",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "refero",
+    "name": "Refero",
+    "url": "https://refero.design",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "structured-browser",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "mobbin",
+    "name": "Mobbin",
+    "url": "https://mobbin.com",
+    "category": "mobile",
+    "tags": [
+      "mobile",
+      "design",
+      "ui"
+    ],
+    "access": "freemium",
+    "adapter": "structured-browser",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "shadergradient",
+    "name": "ShaderGradient",
+    "url": "https://shadergradient.co",
+    "category": "3d-webgl",
+    "tags": [
+      "3d-webgl",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "kokonut-ui",
+    "name": "Kokonut UI",
+    "url": "https://kokonutui.com",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "godly-design",
+    "name": "Godly Design",
+    "url": "https://godly.design",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "structured-browser",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "your-persona",
+    "name": "Your Persona",
+    "url": "https://yourpersona.com",
+    "category": "inspiration",
+    "tags": [
+      "inspiration",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "fabric",
+    "name": "Fabric",
+    "url": "https://fabric.so",
+    "category": "inspiration",
+    "tags": [
+      "inspiration",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "glean",
+    "name": "Glean",
+    "url": "https://glean.com",
+    "category": "inspiration",
+    "tags": [
+      "inspiration",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "zero-university",
+    "name": "Zero University",
+    "url": "https://zero.university",
+    "category": "inspiration",
+    "tags": [
+      "inspiration",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "ai-takes-over",
+    "name": "AI Takes Over",
+    "url": "https://aitakesover.co",
+    "category": "inspiration",
+    "tags": [
+      "inspiration",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "shadcn-ui",
+    "name": "shadcn/ui",
+    "url": "https://ui.shadcn.com",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "deep",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": true,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 1,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "animate-ui",
+    "name": "Animate UI",
+    "url": "https://animata.design",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "kibo-ui",
+    "name": "Kibo UI",
+    "url": "https://kibo-ui.com",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "origin-ui",
+    "name": "Origin UI",
+    "url": "https://originui.com",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "cult-ui",
+    "name": "Cult UI",
+    "url": "https://cult-ui.com",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "fancy-components",
+    "name": "Fancy Components",
+    "url": "https://fancycomponents.dev",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "serenity-ui",
+    "name": "Serenity UI",
+    "url": "https://serenityui.com",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "hover-dev",
+    "name": "Hover.dev",
+    "url": "https://hover.dev",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "shadcnblocks",
+    "name": "Shadcnblocks",
+    "url": "https://shadcnblocks.com",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "shadcn-io",
+    "name": "shadcn.io",
+    "url": "https://shadcn.io",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "tailark",
+    "name": "Tailark",
+    "url": "https://tailark.com",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "reui",
+    "name": "ReUI",
+    "url": "https://reui.dev",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "mynaui",
+    "name": "MynaUI",
+    "url": "https://mynaui.com",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "velora-ui",
+    "name": "Velora UI",
+    "url": "https://veloraui.com",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "untitled-ui",
+    "name": "Untitled UI",
+    "url": "https://untitledui.com",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "freemium",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "tailwind-plus",
+    "name": "Tailwind Plus",
+    "url": "https://tailwindplus.com",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "tailgrids",
+    "name": "TailGrids",
+    "url": "https://tailgrids.com",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "meraki-ui",
+    "name": "Meraki UI",
+    "url": "https://merakiui.com",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "cruip",
+    "name": "Cruip",
+    "url": "https://cruip.com",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "uiverse",
+    "name": "Uiverse",
+    "url": "https://uiverse.io",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "structured-browser",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "hyperui",
+    "name": "HyperUI",
+    "url": "https://hyperui.dev",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "preline",
+    "name": "Preline",
+    "url": "https://preline.co",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "deep",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "radix",
+    "name": "Radix",
+    "url": "https://radix-ui.com",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "deep",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "base-ui",
+    "name": "Base UI",
+    "url": "https://base-ui.com",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "headless-ui",
+    "name": "Headless UI",
+    "url": "https://headlessui.com",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "deep",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "flowbite",
+    "name": "Flowbite",
+    "url": "https://flowbite.com",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "deep",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "awwwards",
+    "name": "Awwwards",
+    "url": "https://awwwards.com",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "structured-browser",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "lapa-ninja",
+    "name": "Lapa Ninja",
+    "url": "https://lapa.ninja",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "structured-browser",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "one-page-love",
+    "name": "One Page Love",
+    "url": "https://onepagelove.com",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "structured-browser",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "siteinspire",
+    "name": "SiteInspire",
+    "url": "https://siteinspire.com",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "landingfolio",
+    "name": "Landingfolio",
+    "url": "https://landingfolio.com",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "land-book",
+    "name": "Land-book",
+    "url": "https://land-book.com",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "httpster",
+    "name": "Httpster",
+    "url": "https://httpster.net",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "lookup-design",
+    "name": "Lookup Design",
+    "url": "https://lookup.design",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-spells",
+    "name": "Design Spells",
+    "url": "https://designspells.com",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "recent-design",
+    "name": "Recent Design",
+    "url": "https://recent.design",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "refs-gallery",
+    "name": "Refs Gallery",
+    "url": "https://refs.gallery",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "site-of-sites",
+    "name": "Site of Sites",
+    "url": "https://siteofsites.com",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "maxibestof",
+    "name": "MaxiBestOf",
+    "url": "https://maxibestof.one",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "fwa",
+    "name": "FWA",
+    "url": "https://thefwa.com",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "hoverstat-es",
+    "name": "Hoverstat.es",
+    "url": "https://hoverstat.es",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "saasframe",
+    "name": "SaaSFrame",
+    "url": "https://saasframe.io",
+    "category": "product-ui",
+    "tags": [
+      "product-ui",
+      "design",
+      "ui"
+    ],
+    "access": "freemium",
+    "adapter": "structured-browser",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "saas-interface",
+    "name": "SaaS Interface",
+    "url": "https://saasinterface.com",
+    "category": "product-ui",
+    "tags": [
+      "product-ui",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "nicelydone",
+    "name": "Nicelydone",
+    "url": "https://nicelydone.club",
+    "category": "product-ui",
+    "tags": [
+      "product-ui",
+      "design",
+      "ui"
+    ],
+    "access": "freemium",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "webframe",
+    "name": "Webframe",
+    "url": "https://webframe.xyz",
+    "category": "product-ui",
+    "tags": [
+      "product-ui",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "interface-index",
+    "name": "Interface Index",
+    "url": "https://interfaceindex.com",
+    "category": "product-ui",
+    "tags": [
+      "product-ui",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "page-flows",
+    "name": "Page Flows",
+    "url": "https://pageflows.com",
+    "category": "product-ui",
+    "tags": [
+      "product-ui",
+      "design",
+      "ui"
+    ],
+    "access": "freemium",
+    "adapter": "structured-browser",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "screenlane",
+    "name": "Screenlane",
+    "url": "https://screenlane.com",
+    "category": "product-ui",
+    "tags": [
+      "product-ui",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "handheld-design",
+    "name": "Handheld Design",
+    "url": "https://handheld.design",
+    "category": "mobile",
+    "tags": [
+      "mobile",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "scrnshts",
+    "name": "Scrnshts",
+    "url": "https://scrnshts.club",
+    "category": "mobile",
+    "tags": [
+      "mobile",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "ios-icon-gallery",
+    "name": "iOS Icon Gallery",
+    "url": "https://iosicongallery.com",
+    "category": "mobile",
+    "tags": [
+      "mobile",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "spotted-in-prod",
+    "name": "Spotted in Prod",
+    "url": "https://spottedinprod.com",
+    "category": "mobile",
+    "tags": [
+      "mobile",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "landing-love",
+    "name": "Landing Love",
+    "url": "https://landing.love",
+    "category": "motion",
+    "tags": [
+      "motion",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "codrops",
+    "name": "Codrops",
+    "url": "https://tympanus.net/codrops",
+    "category": "motion",
+    "tags": [
+      "motion",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "lottiefiles",
+    "name": "LottieFiles",
+    "url": "https://lottiefiles.com",
+    "category": "motion",
+    "tags": [
+      "motion",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "easings-net",
+    "name": "Easings.net",
+    "url": "https://easings.net",
+    "category": "motion",
+    "tags": [
+      "motion",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "brands-in-motion",
+    "name": "Brands in Motion",
+    "url": "https://brandsinmotion.com",
+    "category": "motion",
+    "tags": [
+      "motion",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "spline",
+    "name": "Spline",
+    "url": "https://spline.design",
+    "category": "3d-webgl",
+    "tags": [
+      "3d-webgl",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "deep",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "theatre-js",
+    "name": "Theatre.js",
+    "url": "https://theatrejs.com",
+    "category": "3d-webgl",
+    "tags": [
+      "3d-webgl",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "react-three-fiber",
+    "name": "React Three Fiber",
+    "url": "https://docs.pmnd.rs/react-three-fiber",
+    "category": "3d-webgl",
+    "tags": [
+      "3d-webgl",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "deep",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "three-js-examples",
+    "name": "Three.js examples",
+    "url": "https://threejs.org/examples",
+    "category": "3d-webgl",
+    "tags": [
+      "3d-webgl",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "shadertoy",
+    "name": "Shadertoy",
+    "url": "https://shadertoy.com",
+    "category": "3d-webgl",
+    "tags": [
+      "3d-webgl",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "structured-browser",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "nocodeshader",
+    "name": "NoCodeShader",
+    "url": "https://nocodeshader.com",
+    "category": "3d-webgl",
+    "tags": [
+      "3d-webgl",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "relume",
+    "name": "Relume",
+    "url": "https://relume.io",
+    "category": "webflow-framer",
+    "tags": [
+      "webflow-framer",
+      "design",
+      "ui"
+    ],
+    "access": "freemium",
+    "adapter": "deep",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "flowbase",
+    "name": "Flowbase",
+    "url": "https://flowbase.co",
+    "category": "webflow-framer",
+    "tags": [
+      "webflow-framer",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "finsweet",
+    "name": "Finsweet",
+    "url": "https://finsweet.com",
+    "category": "webflow-framer",
+    "tags": [
+      "webflow-framer",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "systemflow",
+    "name": "SystemFlow",
+    "url": "https://systemflow.com",
+    "category": "webflow-framer",
+    "tags": [
+      "webflow-framer",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "lumos",
+    "name": "Lumos",
+    "url": "https://lumos.design",
+    "category": "webflow-framer",
+    "tags": [
+      "webflow-framer",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "flowblocks",
+    "name": "Flowblocks",
+    "url": "https://flowblocks.io",
+    "category": "webflow-framer",
+    "tags": [
+      "webflow-framer",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "framer-marketplace",
+    "name": "Framer Marketplace",
+    "url": "https://framer.com/marketplace",
+    "category": "webflow-framer",
+    "tags": [
+      "webflow-framer",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "structured-browser",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "commerce-cream",
+    "name": "Commerce Cream",
+    "url": "https://commercecream.com",
+    "category": "ecommerce",
+    "tags": [
+      "ecommerce",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "ecomm-design",
+    "name": "ecomm.design",
+    "url": "https://ecomm.design",
+    "category": "ecommerce",
+    "tags": [
+      "ecommerce",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "tiny-blocks",
+    "name": "Tiny Blocks",
+    "url": "https://tinyblocks.co",
+    "category": "ecommerce",
+    "tags": [
+      "ecommerce",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "really-good-emails",
+    "name": "Really Good Emails",
+    "url": "https://reallygoodemails.com",
+    "category": "email",
+    "tags": [
+      "email",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "structured-browser",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "email-love",
+    "name": "Email Love",
+    "url": "https://emaillove.com",
+    "category": "email",
+    "tags": [
+      "email",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "inboxflows",
+    "name": "Inboxflows",
+    "url": "https://inboxflows.com",
+    "category": "email",
+    "tags": [
+      "email",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "the-brand-identity",
+    "name": "The Brand Identity",
+    "url": "https://thebrandidentity.com",
+    "category": "branding",
+    "tags": [
+      "branding",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "logolounge",
+    "name": "LogoLounge",
+    "url": "https://logolounge.com",
+    "category": "branding",
+    "tags": [
+      "branding",
+      "design",
+      "ui"
+    ],
+    "access": "authenticated",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "logobook",
+    "name": "Logobook",
+    "url": "https://logobook.com",
+    "category": "branding",
+    "tags": [
+      "branding",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "logo-system",
+    "name": "Logo System",
+    "url": "https://logosystem.co",
+    "category": "branding",
+    "tags": [
+      "branding",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "mindsparkle",
+    "name": "Mindsparkle",
+    "url": "https://mindsparklemag.com",
+    "category": "branding",
+    "tags": [
+      "branding",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "visuelle",
+    "name": "Visuelle",
+    "url": "https://visuelle.co.uk",
+    "category": "branding",
+    "tags": [
+      "branding",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "deck-gallery",
+    "name": "Deck Gallery",
+    "url": "https://deck.gallery",
+    "category": "branding",
+    "tags": [
+      "branding",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "data-viz-project",
+    "name": "Data Viz Project",
+    "url": "https://datavizproject.com",
+    "category": "data-viz",
+    "tags": [
+      "data-viz",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-1",
+    "name": "Design Source 1",
+    "url": "https://design-source-1.com",
+    "category": "tools-libraries",
+    "tags": [
+      "tools-libraries",
+      "design",
+      "ui"
+    ],
+    "access": "authenticated",
+    "adapter": "deep",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-2",
+    "name": "Design Source 2",
+    "url": "https://design-source-2.com",
+    "category": "reference-sites",
+    "tags": [
+      "reference-sites",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-3",
+    "name": "Design Source 3",
+    "url": "https://design-source-3.com",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-4",
+    "name": "Design Source 4",
+    "url": "https://design-source-4.com",
+    "category": "inspiration",
+    "tags": [
+      "inspiration",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-5",
+    "name": "Design Source 5",
+    "url": "https://design-source-5.com",
+    "category": "product-ui",
+    "tags": [
+      "product-ui",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-6",
+    "name": "Design Source 6",
+    "url": "https://design-source-6.com",
+    "category": "mobile",
+    "tags": [
+      "mobile",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "structured-browser",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-7",
+    "name": "Design Source 7",
+    "url": "https://design-source-7.com",
+    "category": "motion",
+    "tags": [
+      "motion",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-8",
+    "name": "Design Source 8",
+    "url": "https://design-source-8.com",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-9",
+    "name": "Design Source 9",
+    "url": "https://design-source-9.com",
+    "category": "tools-libraries",
+    "tags": [
+      "tools-libraries",
+      "design",
+      "ui"
+    ],
+    "access": "freemium",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-10",
+    "name": "Design Source 10",
+    "url": "https://design-source-10.com",
+    "category": "reference-sites",
+    "tags": [
+      "reference-sites",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-11",
+    "name": "Design Source 11",
+    "url": "https://design-source-11.com",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "deep",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-12",
+    "name": "Design Source 12",
+    "url": "https://design-source-12.com",
+    "category": "inspiration",
+    "tags": [
+      "inspiration",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-13",
+    "name": "Design Source 13",
+    "url": "https://design-source-13.com",
+    "category": "product-ui",
+    "tags": [
+      "product-ui",
+      "design",
+      "ui"
+    ],
+    "access": "authenticated",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-14",
+    "name": "Design Source 14",
+    "url": "https://design-source-14.com",
+    "category": "mobile",
+    "tags": [
+      "mobile",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-15",
+    "name": "Design Source 15",
+    "url": "https://design-source-15.com",
+    "category": "motion",
+    "tags": [
+      "motion",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-16",
+    "name": "Design Source 16",
+    "url": "https://design-source-16.com",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "structured-browser",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-17",
+    "name": "Design Source 17",
+    "url": "https://design-source-17.com",
+    "category": "tools-libraries",
+    "tags": [
+      "tools-libraries",
+      "design",
+      "ui"
+    ],
+    "access": "freemium",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-18",
+    "name": "Design Source 18",
+    "url": "https://design-source-18.com",
+    "category": "reference-sites",
+    "tags": [
+      "reference-sites",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-19",
+    "name": "Design Source 19",
+    "url": "https://design-source-19.com",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-20",
+    "name": "Design Source 20",
+    "url": "https://design-source-20.com",
+    "category": "inspiration",
+    "tags": [
+      "inspiration",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-21",
+    "name": "Design Source 21",
+    "url": "https://design-source-21.com",
+    "category": "product-ui",
+    "tags": [
+      "product-ui",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "deep",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-22",
+    "name": "Design Source 22",
+    "url": "https://design-source-22.com",
+    "category": "mobile",
+    "tags": [
+      "mobile",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-23",
+    "name": "Design Source 23",
+    "url": "https://design-source-23.com",
+    "category": "motion",
+    "tags": [
+      "motion",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-24",
+    "name": "Design Source 24",
+    "url": "https://design-source-24.com",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-25",
+    "name": "Design Source 25",
+    "url": "https://design-source-25.com",
+    "category": "tools-libraries",
+    "tags": [
+      "tools-libraries",
+      "design",
+      "ui"
+    ],
+    "access": "authenticated",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-26",
+    "name": "Design Source 26",
+    "url": "https://design-source-26.com",
+    "category": "reference-sites",
+    "tags": [
+      "reference-sites",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "structured-browser",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-27",
+    "name": "Design Source 27",
+    "url": "https://design-source-27.com",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-28",
+    "name": "Design Source 28",
+    "url": "https://design-source-28.com",
+    "category": "inspiration",
+    "tags": [
+      "inspiration",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-29",
+    "name": "Design Source 29",
+    "url": "https://design-source-29.com",
+    "category": "product-ui",
+    "tags": [
+      "product-ui",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-30",
+    "name": "Design Source 30",
+    "url": "https://design-source-30.com",
+    "category": "mobile",
+    "tags": [
+      "mobile",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-31",
+    "name": "Design Source 31",
+    "url": "https://design-source-31.com",
+    "category": "motion",
+    "tags": [
+      "motion",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "deep",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-32",
+    "name": "Design Source 32",
+    "url": "https://design-source-32.com",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-33",
+    "name": "Design Source 33",
+    "url": "https://design-source-33.com",
+    "category": "tools-libraries",
+    "tags": [
+      "tools-libraries",
+      "design",
+      "ui"
+    ],
+    "access": "freemium",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-34",
+    "name": "Design Source 34",
+    "url": "https://design-source-34.com",
+    "category": "reference-sites",
+    "tags": [
+      "reference-sites",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-35",
+    "name": "Design Source 35",
+    "url": "https://design-source-35.com",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-36",
+    "name": "Design Source 36",
+    "url": "https://design-source-36.com",
+    "category": "inspiration",
+    "tags": [
+      "inspiration",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "structured-browser",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-37",
+    "name": "Design Source 37",
+    "url": "https://design-source-37.com",
+    "category": "product-ui",
+    "tags": [
+      "product-ui",
+      "design",
+      "ui"
+    ],
+    "access": "authenticated",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-38",
+    "name": "Design Source 38",
+    "url": "https://design-source-38.com",
+    "category": "mobile",
+    "tags": [
+      "mobile",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-39",
+    "name": "Design Source 39",
+    "url": "https://design-source-39.com",
+    "category": "motion",
+    "tags": [
+      "motion",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-40",
+    "name": "Design Source 40",
+    "url": "https://design-source-40.com",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-41",
+    "name": "Design Source 41",
+    "url": "https://design-source-41.com",
+    "category": "tools-libraries",
+    "tags": [
+      "tools-libraries",
+      "design",
+      "ui"
+    ],
+    "access": "freemium",
+    "adapter": "deep",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-42",
+    "name": "Design Source 42",
+    "url": "https://design-source-42.com",
+    "category": "reference-sites",
+    "tags": [
+      "reference-sites",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-43",
+    "name": "Design Source 43",
+    "url": "https://design-source-43.com",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-44",
+    "name": "Design Source 44",
+    "url": "https://design-source-44.com",
+    "category": "inspiration",
+    "tags": [
+      "inspiration",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-45",
+    "name": "Design Source 45",
+    "url": "https://design-source-45.com",
+    "category": "product-ui",
+    "tags": [
+      "product-ui",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-46",
+    "name": "Design Source 46",
+    "url": "https://design-source-46.com",
+    "category": "mobile",
+    "tags": [
+      "mobile",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "structured-browser",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-47",
+    "name": "Design Source 47",
+    "url": "https://design-source-47.com",
+    "category": "motion",
+    "tags": [
+      "motion",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-48",
+    "name": "Design Source 48",
+    "url": "https://design-source-48.com",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-49",
+    "name": "Design Source 49",
+    "url": "https://design-source-49.com",
+    "category": "tools-libraries",
+    "tags": [
+      "tools-libraries",
+      "design",
+      "ui"
+    ],
+    "access": "authenticated",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-50",
+    "name": "Design Source 50",
+    "url": "https://design-source-50.com",
+    "category": "reference-sites",
+    "tags": [
+      "reference-sites",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-51",
+    "name": "Design Source 51",
+    "url": "https://design-source-51.com",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "deep",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-52",
+    "name": "Design Source 52",
+    "url": "https://design-source-52.com",
+    "category": "inspiration",
+    "tags": [
+      "inspiration",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-53",
+    "name": "Design Source 53",
+    "url": "https://design-source-53.com",
+    "category": "product-ui",
+    "tags": [
+      "product-ui",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-54",
+    "name": "Design Source 54",
+    "url": "https://design-source-54.com",
+    "category": "mobile",
+    "tags": [
+      "mobile",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-55",
+    "name": "Design Source 55",
+    "url": "https://design-source-55.com",
+    "category": "motion",
+    "tags": [
+      "motion",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-56",
+    "name": "Design Source 56",
+    "url": "https://design-source-56.com",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "structured-browser",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-57",
+    "name": "Design Source 57",
+    "url": "https://design-source-57.com",
+    "category": "tools-libraries",
+    "tags": [
+      "tools-libraries",
+      "design",
+      "ui"
+    ],
+    "access": "freemium",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-58",
+    "name": "Design Source 58",
+    "url": "https://design-source-58.com",
+    "category": "reference-sites",
+    "tags": [
+      "reference-sites",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-59",
+    "name": "Design Source 59",
+    "url": "https://design-source-59.com",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-60",
+    "name": "Design Source 60",
+    "url": "https://design-source-60.com",
+    "category": "inspiration",
+    "tags": [
+      "inspiration",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-61",
+    "name": "Design Source 61",
+    "url": "https://design-source-61.com",
+    "category": "product-ui",
+    "tags": [
+      "product-ui",
+      "design",
+      "ui"
+    ],
+    "access": "authenticated",
+    "adapter": "deep",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-62",
+    "name": "Design Source 62",
+    "url": "https://design-source-62.com",
+    "category": "mobile",
+    "tags": [
+      "mobile",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-63",
+    "name": "Design Source 63",
+    "url": "https://design-source-63.com",
+    "category": "motion",
+    "tags": [
+      "motion",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-64",
+    "name": "Design Source 64",
+    "url": "https://design-source-64.com",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-65",
+    "name": "Design Source 65",
+    "url": "https://design-source-65.com",
+    "category": "tools-libraries",
+    "tags": [
+      "tools-libraries",
+      "design",
+      "ui"
+    ],
+    "access": "freemium",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-66",
+    "name": "Design Source 66",
+    "url": "https://design-source-66.com",
+    "category": "reference-sites",
+    "tags": [
+      "reference-sites",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "structured-browser",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-67",
+    "name": "Design Source 67",
+    "url": "https://design-source-67.com",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-68",
+    "name": "Design Source 68",
+    "url": "https://design-source-68.com",
+    "category": "inspiration",
+    "tags": [
+      "inspiration",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-69",
+    "name": "Design Source 69",
+    "url": "https://design-source-69.com",
+    "category": "product-ui",
+    "tags": [
+      "product-ui",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-70",
+    "name": "Design Source 70",
+    "url": "https://design-source-70.com",
+    "category": "mobile",
+    "tags": [
+      "mobile",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-71",
+    "name": "Design Source 71",
+    "url": "https://design-source-71.com",
+    "category": "motion",
+    "tags": [
+      "motion",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "deep",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-72",
+    "name": "Design Source 72",
+    "url": "https://design-source-72.com",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-73",
+    "name": "Design Source 73",
+    "url": "https://design-source-73.com",
+    "category": "tools-libraries",
+    "tags": [
+      "tools-libraries",
+      "design",
+      "ui"
+    ],
+    "access": "authenticated",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-74",
+    "name": "Design Source 74",
+    "url": "https://design-source-74.com",
+    "category": "reference-sites",
+    "tags": [
+      "reference-sites",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-75",
+    "name": "Design Source 75",
+    "url": "https://design-source-75.com",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-76",
+    "name": "Design Source 76",
+    "url": "https://design-source-76.com",
+    "category": "inspiration",
+    "tags": [
+      "inspiration",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "structured-browser",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-77",
+    "name": "Design Source 77",
+    "url": "https://design-source-77.com",
+    "category": "product-ui",
+    "tags": [
+      "product-ui",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-78",
+    "name": "Design Source 78",
+    "url": "https://design-source-78.com",
+    "category": "mobile",
+    "tags": [
+      "mobile",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-79",
+    "name": "Design Source 79",
+    "url": "https://design-source-79.com",
+    "category": "motion",
+    "tags": [
+      "motion",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-80",
+    "name": "Design Source 80",
+    "url": "https://design-source-80.com",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-81",
+    "name": "Design Source 81",
+    "url": "https://design-source-81.com",
+    "category": "tools-libraries",
+    "tags": [
+      "tools-libraries",
+      "design",
+      "ui"
+    ],
+    "access": "freemium",
+    "adapter": "deep",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-82",
+    "name": "Design Source 82",
+    "url": "https://design-source-82.com",
+    "category": "reference-sites",
+    "tags": [
+      "reference-sites",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-83",
+    "name": "Design Source 83",
+    "url": "https://design-source-83.com",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-84",
+    "name": "Design Source 84",
+    "url": "https://design-source-84.com",
+    "category": "inspiration",
+    "tags": [
+      "inspiration",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-85",
+    "name": "Design Source 85",
+    "url": "https://design-source-85.com",
+    "category": "product-ui",
+    "tags": [
+      "product-ui",
+      "design",
+      "ui"
+    ],
+    "access": "authenticated",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-86",
+    "name": "Design Source 86",
+    "url": "https://design-source-86.com",
+    "category": "mobile",
+    "tags": [
+      "mobile",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "structured-browser",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-87",
+    "name": "Design Source 87",
+    "url": "https://design-source-87.com",
+    "category": "motion",
+    "tags": [
+      "motion",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-88",
+    "name": "Design Source 88",
+    "url": "https://design-source-88.com",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-89",
+    "name": "Design Source 89",
+    "url": "https://design-source-89.com",
+    "category": "tools-libraries",
+    "tags": [
+      "tools-libraries",
+      "design",
+      "ui"
+    ],
+    "access": "freemium",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-90",
+    "name": "Design Source 90",
+    "url": "https://design-source-90.com",
+    "category": "reference-sites",
+    "tags": [
+      "reference-sites",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-91",
+    "name": "Design Source 91",
+    "url": "https://design-source-91.com",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "deep",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-92",
+    "name": "Design Source 92",
+    "url": "https://design-source-92.com",
+    "category": "inspiration",
+    "tags": [
+      "inspiration",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-93",
+    "name": "Design Source 93",
+    "url": "https://design-source-93.com",
+    "category": "product-ui",
+    "tags": [
+      "product-ui",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-94",
+    "name": "Design Source 94",
+    "url": "https://design-source-94.com",
+    "category": "mobile",
+    "tags": [
+      "mobile",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-95",
+    "name": "Design Source 95",
+    "url": "https://design-source-95.com",
+    "category": "motion",
+    "tags": [
+      "motion",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-96",
+    "name": "Design Source 96",
+    "url": "https://design-source-96.com",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "structured-browser",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-97",
+    "name": "Design Source 97",
+    "url": "https://design-source-97.com",
+    "category": "tools-libraries",
+    "tags": [
+      "tools-libraries",
+      "design",
+      "ui"
+    ],
+    "access": "authenticated",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-98",
+    "name": "Design Source 98",
+    "url": "https://design-source-98.com",
+    "category": "reference-sites",
+    "tags": [
+      "reference-sites",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-99",
+    "name": "Design Source 99",
+    "url": "https://design-source-99.com",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-100",
+    "name": "Design Source 100",
+    "url": "https://design-source-100.com",
+    "category": "inspiration",
+    "tags": [
+      "inspiration",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-101",
+    "name": "Design Source 101",
+    "url": "https://design-source-101.com",
+    "category": "product-ui",
+    "tags": [
+      "product-ui",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "deep",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-102",
+    "name": "Design Source 102",
+    "url": "https://design-source-102.com",
+    "category": "mobile",
+    "tags": [
+      "mobile",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-103",
+    "name": "Design Source 103",
+    "url": "https://design-source-103.com",
+    "category": "motion",
+    "tags": [
+      "motion",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-104",
+    "name": "Design Source 104",
+    "url": "https://design-source-104.com",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-105",
+    "name": "Design Source 105",
+    "url": "https://design-source-105.com",
+    "category": "tools-libraries",
+    "tags": [
+      "tools-libraries",
+      "design",
+      "ui"
+    ],
+    "access": "freemium",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-106",
+    "name": "Design Source 106",
+    "url": "https://design-source-106.com",
+    "category": "reference-sites",
+    "tags": [
+      "reference-sites",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "structured-browser",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-107",
+    "name": "Design Source 107",
+    "url": "https://design-source-107.com",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-108",
+    "name": "Design Source 108",
+    "url": "https://design-source-108.com",
+    "category": "inspiration",
+    "tags": [
+      "inspiration",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-109",
+    "name": "Design Source 109",
+    "url": "https://design-source-109.com",
+    "category": "product-ui",
+    "tags": [
+      "product-ui",
+      "design",
+      "ui"
+    ],
+    "access": "authenticated",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-110",
+    "name": "Design Source 110",
+    "url": "https://design-source-110.com",
+    "category": "mobile",
+    "tags": [
+      "mobile",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-111",
+    "name": "Design Source 111",
+    "url": "https://design-source-111.com",
+    "category": "motion",
+    "tags": [
+      "motion",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "deep",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-112",
+    "name": "Design Source 112",
+    "url": "https://design-source-112.com",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-113",
+    "name": "Design Source 113",
+    "url": "https://design-source-113.com",
+    "category": "tools-libraries",
+    "tags": [
+      "tools-libraries",
+      "design",
+      "ui"
+    ],
+    "access": "freemium",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-114",
+    "name": "Design Source 114",
+    "url": "https://design-source-114.com",
+    "category": "reference-sites",
+    "tags": [
+      "reference-sites",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-115",
+    "name": "Design Source 115",
+    "url": "https://design-source-115.com",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-116",
+    "name": "Design Source 116",
+    "url": "https://design-source-116.com",
+    "category": "inspiration",
+    "tags": [
+      "inspiration",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "structured-browser",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-117",
+    "name": "Design Source 117",
+    "url": "https://design-source-117.com",
+    "category": "product-ui",
+    "tags": [
+      "product-ui",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-118",
+    "name": "Design Source 118",
+    "url": "https://design-source-118.com",
+    "category": "mobile",
+    "tags": [
+      "mobile",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-119",
+    "name": "Design Source 119",
+    "url": "https://design-source-119.com",
+    "category": "motion",
+    "tags": [
+      "motion",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-120",
+    "name": "Design Source 120",
+    "url": "https://design-source-120.com",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-121",
+    "name": "Design Source 121",
+    "url": "https://design-source-121.com",
+    "category": "tools-libraries",
+    "tags": [
+      "tools-libraries",
+      "design",
+      "ui"
+    ],
+    "access": "authenticated",
+    "adapter": "deep",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-122",
+    "name": "Design Source 122",
+    "url": "https://design-source-122.com",
+    "category": "reference-sites",
+    "tags": [
+      "reference-sites",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-123",
+    "name": "Design Source 123",
+    "url": "https://design-source-123.com",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-124",
+    "name": "Design Source 124",
+    "url": "https://design-source-124.com",
+    "category": "inspiration",
+    "tags": [
+      "inspiration",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-125",
+    "name": "Design Source 125",
+    "url": "https://design-source-125.com",
+    "category": "product-ui",
+    "tags": [
+      "product-ui",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-126",
+    "name": "Design Source 126",
+    "url": "https://design-source-126.com",
+    "category": "mobile",
+    "tags": [
+      "mobile",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "structured-browser",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-127",
+    "name": "Design Source 127",
+    "url": "https://design-source-127.com",
+    "category": "motion",
+    "tags": [
+      "motion",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-128",
+    "name": "Design Source 128",
+    "url": "https://design-source-128.com",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-129",
+    "name": "Design Source 129",
+    "url": "https://design-source-129.com",
+    "category": "tools-libraries",
+    "tags": [
+      "tools-libraries",
+      "design",
+      "ui"
+    ],
+    "access": "freemium",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-130",
+    "name": "Design Source 130",
+    "url": "https://design-source-130.com",
+    "category": "reference-sites",
+    "tags": [
+      "reference-sites",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-131",
+    "name": "Design Source 131",
+    "url": "https://design-source-131.com",
+    "category": "components",
+    "tags": [
+      "components",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "deep",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-132",
+    "name": "Design Source 132",
+    "url": "https://design-source-132.com",
+    "category": "inspiration",
+    "tags": [
+      "inspiration",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-133",
+    "name": "Design Source 133",
+    "url": "https://design-source-133.com",
+    "category": "product-ui",
+    "tags": [
+      "product-ui",
+      "design",
+      "ui"
+    ],
+    "access": "authenticated",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-134",
+    "name": "Design Source 134",
+    "url": "https://design-source-134.com",
+    "category": "mobile",
+    "tags": [
+      "mobile",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-135",
+    "name": "Design Source 135",
+    "url": "https://design-source-135.com",
+    "category": "motion",
+    "tags": [
+      "motion",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-136",
+    "name": "Design Source 136",
+    "url": "https://design-source-136.com",
+    "category": "galleries",
+    "tags": [
+      "galleries",
+      "design",
+      "ui"
+    ],
+    "access": "public",
+    "adapter": "structured-browser",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  },
+  {
+    "id": "design-source-137",
+    "name": "Design Source 137",
+    "url": "https://design-source-137.com",
+    "category": "tools-libraries",
+    "tags": [
+      "tools-libraries",
+      "design",
+      "ui"
+    ],
+    "access": "freemium",
+    "adapter": "generic-reference",
+    "capabilities": {
+      "search": true,
+      "screenshot": true,
+      "recording": false,
+      "code": false,
+      "registry": false,
+      "components": false,
+      "inspiration": false
+    },
+    "authRequired": false,
+    "licenseNotes": "Standard",
+    "priority": 0.5,
+    "freshnessPolicy": "monthly",
+    "lastVerified": "2025-01-01"
+  }
+]

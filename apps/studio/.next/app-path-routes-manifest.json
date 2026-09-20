@@ -1,0 +1,17 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/project/[id]/brand/page": "/project/[id]/brand",
+  "/project/[id]/critique/page": "/project/[id]/critique",
+  "/project/[id]/implementation/page": "/project/[id]/implementation",
+  "/page": "/",
+  "/project/[id]/library/page": "/project/[id]/library",
+  "/project/[id]/metrics/page": "/project/[id]/metrics",
+  "/project/[id]/interview/page": "/project/[id]/interview",
+  "/project/[id]/moodboard/page": "/project/[id]/moodboard",
+  "/project/[id]/page": "/project/[id]",
+  "/project/[id]/storyboard/page": "/project/[id]/storyboard",
+  "/project/[id]/research/page": "/project/[id]/research",
+  "/project/[id]/qa/page": "/project/[id]/qa",
+  "/projects/page": "/projects",
+  "/project/[id]/production/page": "/project/[id]/production"
+}
