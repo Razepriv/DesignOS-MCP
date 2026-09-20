@@ -1,0 +1,11 @@
+node_modules/
+dist/
+coverage/
+.env
+.env.*
+!.env.example
+.designos/
+design-vault/.index/
+*.log
+.DS_Store
+.vercel/
