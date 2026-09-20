@@ -1,0 +1,53 @@
+name: New Source Request
+description: Propose a new design source to add to the registry
+labels: ["source"]
+body:
+  - type: input
+    id: source_name
+    attributes:
+      label: Source name
+      description: The name of the design source or library.
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      description: The canonical URL of the source.
+    validations:
+      required: true
+  - type: input
+    id: category
+    attributes:
+      label: Category
+      description: Component Libraries, Design Inspiration, Typography, Motion, etc.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why useful
+      description: How does this source improve the intelligence of DesignOS?
+    validations:
+      required: true
+  - type: input
+    id: access
+    attributes:
+      label: Access model
+      description: Public, Freemium, or Authenticated.
+    validations:
+      required: true
+  - type: textarea
+    id: extraction
+    attributes:
+      label: Potential extraction method
+      description: Can it be deep-adapted, structured, or does it require generic browsing?
+    validations:
+      required: true
+  - type: textarea
+    id: license
+    attributes:
+      label: License considerations
+      description: Any known restrictions or open source licenses?
+    validations:
+      required: true
